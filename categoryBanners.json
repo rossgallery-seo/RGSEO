@@ -7,7 +7,7 @@
   },
   "/test-store/aviation": {
     "html": "<div class='hero-banner-wrapper'>\
-      <section class='orchid-style-hero' style=\"background-image: url('https://github.com/rossgallery-seo/RGSEO/blob/818304ab833448e10e8ed1cc7337f13f4c9dbf03/BradleyRossPhotographyAllRightsReserved_2013_052-027_BANCOM.jpg');\">\
+      <section class='orchid-style-hero' style=\"background-image: url('https://raw.githubusercontent.com/rossgallery-seo/RGSEO/818304ab833448e10e8ed1cc7337f13f4c9dbf03/BradleyRossPhotographyAllRightsReserved_2013_052-027_BANCOM.jpg');\">\
         <div class='orchid-hero-content'>\
           <h1>THE ART OF FLIGHT</h1>\
           <h2>AVIATION PHOTOGRAPHY BY BRADLEY ROSS</h2>\

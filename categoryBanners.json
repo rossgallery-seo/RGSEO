@@ -4,7 +4,7 @@
   }
 }
 {
-  "/test-store/test-store-aviation": {
+  "/test-store/aviation": {
     "html": "<section class='category-banner' style=\"background: #111; color: white; padding: 3em; text-align: center;\"><h1>AVIATION ART</h1><h2>Capturing the Power of Flight</h2><p>Fine art aircraft photography celebrating the aesthetics of aviation in flight and form.</p></section>"
   }
 }

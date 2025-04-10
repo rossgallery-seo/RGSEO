@@ -2,7 +2,8 @@
   "/shop/landscape": {
     "html": "<section class='category-banner'><h1>FINE ART LANDSCAPE PHOTOGRAPHY<br>CAPTURING THE BEAUTY</h1><p>Fine Art Landscape photography and nature photography are dynamic. Light, form, and atmosphere continuously shift, revealing fresh perspectives in the familiar. This curated collection of scenic photographs captures fleeting moments and preserves them as striking wall art, immersing your space in the natural world's depth, beauty, and emotion.</p></section>"
   },
+ {
   "/test-store/aviation": {
-    "html": "<section class='category-banner' style=\"background: #111; color: white; padding: 3em; text-align: center;\"><h1>AVIATION ART</h1><h2>Capturing the Power of Flight</h2><p>Fine art aircraft photography celebrating the aesthetics of aviation in flight and form.</p></section>"
+    "html": "<section class='category-banner aviation-banner'><div class='aviation-banner-content'><div class='aviation-text'><h1>AVIATION<br>ART</h1><h2>CAPTURING<br>THE POWER<br>OF FLIGHT</h2><p>Fine art aircraft photography celebrating the aesthetics of aviation in flight and form.</p></div></div></section>"
   }
 }
